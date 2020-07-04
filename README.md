@@ -4,4 +4,4 @@
 
 I used https://www.screenshotmachine.com/ and its API and Google Drive Api for uploading.
 
-It basically creates "Files" folder inside my project and download & saves the screenshots inside the "Files" folder. After that the method uploads the images inside "Files" folder to Google drive!
+It basically creates "Files" folder inside my project and download & saves the screenshots inside the "Files" folder. After that it uploads the images inside "Files" folder to Google drive!
